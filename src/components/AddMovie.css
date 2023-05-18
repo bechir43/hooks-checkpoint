@@ -1,0 +1,14 @@
+.AddMovie {
+    max-width: 50%;
+    margin: 70px auto;
+    color: black;
+    margin-top: 10px;
+  }
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  h6 {
+    margin-right: 120px;
+  }
